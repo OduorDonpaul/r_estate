@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.icon{
+  margin: 10px;
+}
+p{
+  font-size: 1.2em;
+  color: black;
+}
+
+nav{
+  font-size: 1.2em;
+  color: black;
+}
+button{
+  font-size: 1.2em;
+  color: black;
+}

@@ -1,0 +1,17 @@
+.form-group  {
+    padding-left: 30%;
+    padding-right: 30%;
+
+};
+#product_accommodation{
+    text-align: center;
+}
+
+.product{
+    padding: 2%;
+}
+#search{
+    padding: 5%;
+    background: url(./assets/images/main.jpg);
+    background-size: 1000px 450px;
+}
